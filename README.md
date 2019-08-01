@@ -1,6 +1,7 @@
 # CS-Masters-Thesis
 Masters Thesis Source Code
-http://hdl.handle.net/10211.3/207843
+
+Thesis: http://hdl.handle.net/10211.3/207843
 
 The AES NI folder performs encryption and decryption using the Crypto++ AES implementation.
 
